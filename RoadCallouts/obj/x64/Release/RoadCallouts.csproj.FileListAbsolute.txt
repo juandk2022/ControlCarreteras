@@ -1,0 +1,16 @@
+H:\Users\juan\source\repos\RoadCallouts\RoadCallouts\bin\x64\Release\RoadCallouts.dll
+H:\Users\juan\source\repos\RoadCallouts\RoadCallouts\bin\x64\Release\RoadCallouts.pdb
+H:\Users\juan\source\repos\RoadCallouts\RoadCallouts\bin\x64\Release\LSPD First Response.dll
+H:\Users\juan\source\repos\RoadCallouts\RoadCallouts\bin\x64\Release\RAGENativeUI.dll
+H:\Users\juan\source\repos\RoadCallouts\RoadCallouts\bin\x64\Release\RagePluginHookSDK.dll
+H:\Users\juan\source\repos\RoadCallouts\RoadCallouts\bin\x64\Release\StopThePed.dll
+H:\Users\juan\source\repos\RoadCallouts\RoadCallouts\bin\x64\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Users\juan\source\repos\RoadCallouts\RoadCallouts\bin\x64\Release\LSPD First Response.pdb
+H:\Users\juan\source\repos\RoadCallouts\RoadCallouts\bin\x64\Release\RAGENativeUI.pdb
+H:\Users\juan\source\repos\RoadCallouts\RoadCallouts\bin\x64\Release\RagePluginHookSDK.xml
+H:\Users\juan\source\repos\RoadCallouts\RoadCallouts\bin\x64\Release\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+H:\Users\juan\source\repos\RoadCallouts\RoadCallouts\obj\x64\Release\RoadCallouts.csprojAssemblyReference.cache
+H:\Users\juan\source\repos\RoadCallouts\RoadCallouts\obj\x64\Release\RoadCallouts.csproj.CoreCompileInputs.cache
+H:\Users\juan\source\repos\RoadCallouts\RoadCallouts\obj\x64\Release\RoadCallouts.csproj.CopyComplete
+H:\Users\juan\source\repos\RoadCallouts\RoadCallouts\obj\x64\Release\RoadCallouts.dll
+H:\Users\juan\source\repos\RoadCallouts\RoadCallouts\obj\x64\Release\RoadCallouts.pdb
